@@ -1,0 +1,32 @@
+#sobreNosotros{
+    height: 35vh;
+    width: 100%;
+    background-color:rgb(9, 172, 175);
+    color: white;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#sobreNosotros h2 {
+    font-size: 50px;
+    text-align: center;
+    height: 35%;
+}
+
+#sobreNosotros p {
+    height: 35%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#sobreNosotros button {
+    width: 130px;
+    height: 50px;
+    background-color: white;
+    border: none;
+    color: rgb(9, 172, 175);
+    text-transform: uppercase;
+    cursor: pointer;
+}
